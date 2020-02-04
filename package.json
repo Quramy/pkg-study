@@ -1,0 +1,23 @@
+{
+  "name": "@quramy/pkg-study",
+  "version": "1.0.0",
+  "description": "![](avatars_main_128.png)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Quramy/pkg-study.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Quramy/pkg-study/issues"
+  },
+  "homepage": "https://github.com/Quramy/pkg-study#readme",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  }
+}
